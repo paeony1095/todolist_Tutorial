@@ -1,2 +1,5 @@
 # todolist_Tutorial
-my tutorial
+django tutorial todolist mytutorial ver 1.0
+
+
+
